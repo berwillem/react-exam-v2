@@ -1,0 +1,13 @@
+.active {
+  color: red !important;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: larger;
+  gap: 30px;
+}
+.navbar a {
+  color: black;
+}
